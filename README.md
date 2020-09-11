@@ -29,11 +29,6 @@ I'm currently learning about Dart.
 ### 🏆 Github Status
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=Zersya&show_icons=true&hide_border=true)
 
-
-### 🔭 2020 Goal
-learning data structures and algorithms recently becauese I am preparing for postgraduate entry.
-
-
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/zeneryd)
 
