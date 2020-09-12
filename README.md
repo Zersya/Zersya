@@ -32,6 +32,3 @@ I'm currently learning about Dart.
 ### ☕ Get In Touch
 - [Twitter](https://twitter.com/zeneryd)
 - [Linkedin](https://www.linkedin.com/in/zeinersyad)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zersya)
-
