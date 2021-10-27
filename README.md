@@ -4,7 +4,7 @@ I'm currently learning about Dart.
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-### 👨‍💻 Languages and Tools
+### 👨‍💻 Languages and Tools - [![wakatime](https://wakatime.com/badge/user/ef9dff89-e60c-4c4b-b077-c966a0053279.svg)](https://wakatime.com/@ef9dff89-e60c-4c4b-b077-c966a0053279)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
