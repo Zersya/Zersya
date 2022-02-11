@@ -31,5 +31,5 @@ I'm currently learning about Dart.
 ![My Github Status](https://github-readme-stats.vercel.app/api?username=Zersya&show_icons=true&hide_border=true)
 
 ### ☕ Get In Touch
-- [Twitter](https://twitter.com/zeneryd)
+- [Twitter](https://twitter.com/zeinersyad)
 - [Linkedin](https://www.linkedin.com/in/zeinersyad)
