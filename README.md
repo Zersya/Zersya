@@ -20,6 +20,7 @@ I'm currently learning about Dart.
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker)
 
+![Postgres](https://img.shields.io/badge/-Postgres-black?style=flat&logo=postgres)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
