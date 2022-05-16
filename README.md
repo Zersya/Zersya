@@ -1,6 +1,8 @@
 
 ### Hello there 👋🏻
-I'm currently learning about Dart.
+Hey! I'm Zein — a passionate programmer, hard worker, and great communicator. My first introduction to programming was in junior high school when I learned to use HTML, CSS, and JavaScript, to create my own personal blog. During my time in senior high school, my interests expanded to learning how to make games with Unity, as well as creating 3D art (which you can find by searching up "Zersya" on ArtStation). I spent my college years studying software development, and now have over three years of experience, as well as more than one year of experience with Flutter SDK. I'm currently working on various projects, and am more passionate about my work than ever before.
+
+Dart & Flutter 💙 | Rust 🦀, here I come.
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
